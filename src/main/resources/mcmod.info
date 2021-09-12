@@ -1,0 +1,15 @@
+[{
+	"modid"        : "allahware",
+	"name"         : "AllahWare.cc",
+	"description"  : "Ballin",
+	"version"      : "1.0",
+	"mcversion"    : "1.12.2-14.23.5.2772",
+	"url"          : "",
+	"updateUrl"    : "",
+	"authorList"   : ["CumHax"],
+	"credits"      : "CumHax",
+	"logoFile"     : "mm.png",
+	"screenshots"  : [],
+	"dependencies" : []
+
+}]
