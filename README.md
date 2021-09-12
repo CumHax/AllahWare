@@ -1,5 +1,7 @@
 # AllahWare.cc
 #### (its a skid)
+Here's gui
+![2021-09-12_14 17 26](https://user-images.githubusercontent.com/83083809/132986232-1efc83a7-c632-4fc0-a1b2-eaa770589a93.png)
 
 ### how to use
 DOWNLOAD THE JAR FROM THE RELEASES TAB ON THE RIGHT OF YOUR SCREEN <br>
