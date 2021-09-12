@@ -1,5 +1,5 @@
 # AllahWare.cc
-#### (for real this time)
+#### (its a skid)
 
 ### how to use
 DOWNLOAD THE JAR FROM THE RELEASES TAB ON THE RIGHT OF YOUR SCREEN <br>
